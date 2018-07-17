@@ -580,8 +580,8 @@ if(false) {}
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! /home/han/Projects/BittigerCS503/week2/oj-client/src/styles.css */"./src/styles.css");
-module.exports = __webpack_require__(/*! /home/han/Projects/BittigerCS503/week2/oj-client/node_modules/bootstrap/dist/css/bootstrap.css */"./node_modules/bootstrap/dist/css/bootstrap.css");
+__webpack_require__(/*! /home/han/Projects/BittigerCS503/week3/oj-client/src/styles.css */"./src/styles.css");
+module.exports = __webpack_require__(/*! /home/han/Projects/BittigerCS503/week3/oj-client/node_modules/bootstrap/dist/css/bootstrap.css */"./node_modules/bootstrap/dist/css/bootstrap.css");
 
 
 /***/ })
