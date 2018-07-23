@@ -1,40 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9036539c-3e77-4611-a964-d2ff9f10634d" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week2/public/3rdpartylicenses.txt" beforeDir="false" afterPath="$PROJECT_DIR$/week2/public/3rdpartylicenses.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week2/public/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/week2/public/favicon.ico" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week2/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/week2/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week2/public/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/week2/public/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week2/public/main.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/week2/public/main.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week2/public/polyfills.js" beforeDir="false" afterPath="$PROJECT_DIR$/week2/public/polyfills.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week2/public/polyfills.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/week2/public/polyfills.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week2/public/runtime.js" beforeDir="false" afterPath="$PROJECT_DIR$/week2/public/runtime.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week2/public/runtime.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/week2/public/runtime.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week2/public/scripts.js" beforeDir="false" afterPath="$PROJECT_DIR$/week2/public/scripts.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week2/public/scripts.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/week2/public/scripts.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week2/public/styles.js" beforeDir="false" afterPath="$PROJECT_DIR$/week2/public/styles.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week2/public/styles.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/week2/public/styles.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week2/public/vendor.js" beforeDir="false" afterPath="$PROJECT_DIR$/week2/public/vendor.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week2/public/vendor.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/week2/public/vendor.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week3/oj-client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/week3/oj-client/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week3/oj-client/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/week3/oj-client/src/app/app.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week3/oj-client/src/app/app.routes.ts" beforeDir="false" afterPath="$PROJECT_DIR$/week3/oj-client/src/app/app.routes.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week3/oj-client/src/app/components/navbar/navbar.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/week3/oj-client/src/app/components/navbar/navbar.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week3/oj-client/src/app/components/navbar/navbar.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/week3/oj-client/src/app/components/navbar/navbar.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week3/oj-client/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/week3/oj-client/src/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week3/oj-server/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/week3/oj-server/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week3/oj-server/routes/rest.js" beforeDir="false" afterPath="$PROJECT_DIR$/week3/oj-server/routes/rest.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week3/oj-server/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/week3/oj-server/server.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week3/oj-server/services/problemService.js" beforeDir="false" afterPath="$PROJECT_DIR$/week3/oj-server/services/problemService.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week3/public/3rdpartylicenses.txt" beforeDir="false" afterPath="$PROJECT_DIR$/week3/public/3rdpartylicenses.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week3/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/week3/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week3/public/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/week3/public/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week3/public/main.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/week3/public/main.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week3/public/vendor.js" beforeDir="false" afterPath="$PROJECT_DIR$/week3/public/vendor.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week3/public/vendor.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/week3/public/vendor.js.map" afterDir="false" />
-    </list>
+    <list default="true" id="9036539c-3e77-4611-a964-d2ff9f10634d" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -188,57 +155,6 @@
               <item name="BittigerCS503" type="b2602c69:ProjectViewProjectNode" />
               <item name="BittigerCS503" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="BittigerCS503" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BittigerCS503" type="462c0819:PsiDirectoryNode" />
-              <item name="week3" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BittigerCS503" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BittigerCS503" type="462c0819:PsiDirectoryNode" />
-              <item name="week3" type="462c0819:PsiDirectoryNode" />
-              <item name="oj-client" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BittigerCS503" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BittigerCS503" type="462c0819:PsiDirectoryNode" />
-              <item name="week3" type="462c0819:PsiDirectoryNode" />
-              <item name="oj-client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BittigerCS503" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BittigerCS503" type="462c0819:PsiDirectoryNode" />
-              <item name="week3" type="462c0819:PsiDirectoryNode" />
-              <item name="oj-client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BittigerCS503" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BittigerCS503" type="462c0819:PsiDirectoryNode" />
-              <item name="week3" type="462c0819:PsiDirectoryNode" />
-              <item name="oj-client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BittigerCS503" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BittigerCS503" type="462c0819:PsiDirectoryNode" />
-              <item name="week3" type="462c0819:PsiDirectoryNode" />
-              <item name="oj-client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="navbar" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BittigerCS503" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BittigerCS503" type="462c0819:PsiDirectoryNode" />
-              <item name="week3" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -308,16 +224,15 @@
       <workItem from="1531908469675" duration="1878000" />
       <workItem from="1532263687877" duration="214000" />
       <workItem from="1532307259523" duration="13830000" />
-      <workItem from="1532332159850" duration="1944000" />
+      <workItem from="1532332159850" duration="2546000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="165686000" />
+    <option name="totallyTimeSpent" value="166288000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1293" height="636" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TypeScript" order="7" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22892497" />
