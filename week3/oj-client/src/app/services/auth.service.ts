@@ -23,7 +23,7 @@ export class AuthService {
   })*/
   }
 
-  public login(): Promise<Object> {
+  public login() : Promise<Object> {
     return new Promise((resolve, reject) => {
       // Call the show method to display the widget.
       this.lock.show((error: string, profile: Object, id_token: string) => {
@@ -53,6 +53,7 @@ export class AuthService {
   public getProfile() {
     return JSON.parse(localStorage.getItem('profile'));
   }
+
 
   public resetPassword(): void {
     let profile = this.getProfile();

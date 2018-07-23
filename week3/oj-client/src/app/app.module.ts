@@ -15,6 +15,7 @@ import { NewProblemComponent } from './components/new-problem/new-problem.compon
 import { NavbarComponent } from './components/navbar/navbar.component';
 import { MessagesComponent } from "./messages/messages.component";
 import { ProfileComponent } from './components/profile/profile.component';
+import {AuthGuardService} from "./services/auth-guard.service";
 
 @NgModule({
   declarations: [
@@ -39,7 +40,10 @@ import { ProfileComponent } from './components/profile/profile.component';
   }, {
       provide: "auth",
       useClass: AuthService
-    }],
+    },{
+    provide: "authGuard",
+    useClass: AuthGuardService
+  }],
   bootstrap: [AppComponent]
 })
 export class AppModule { }
