@@ -155,6 +155,11 @@
               <item name="BittigerCS503" type="b2602c69:ProjectViewProjectNode" />
               <item name="BittigerCS503" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="BittigerCS503" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BittigerCS503" type="462c0819:PsiDirectoryNode" />
+              <item name="week3" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -224,12 +229,12 @@
       <workItem from="1531908469675" duration="1878000" />
       <workItem from="1532263687877" duration="214000" />
       <workItem from="1532307259523" duration="13830000" />
-      <workItem from="1532332159850" duration="2546000" />
+      <workItem from="1532332159850" duration="2843000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="166288000" />
+    <option name="totallyTimeSpent" value="166585000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1293" height="636" extended-state="6" />
