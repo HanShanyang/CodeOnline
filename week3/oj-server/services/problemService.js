@@ -45,7 +45,6 @@ var addProblem = function (newProblem) {
                     mongoProblem.save();
                     resolve(newProblem);
                 });
-                resolve(problem);
             }
         })
     });

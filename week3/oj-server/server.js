@@ -5,12 +5,13 @@ var mongoose =  require("mongoose");
 var indexRouter = require("./routes/index");
 var path = require('path');
 
-mongoose.connect("mongodb://user:han4832069@ds135441.mlab.com:35441/coj");
+mongoose.connect('mongodb://user:han4832069@ds135441.mlab.com:35441/coj'
+    ,{ useNewUrlParser: true });
 
 app.use(express.static(path.join(__dirname, '../public')));
 app.use("/",indexRouter);
 app.use("/api/v1",restRouter);
-app.use('/', function(req, res) {
+app.use(function(req, res) {
     // handle '/' request
     res.sendFile("index.html", { root: path.join(__dirname, '../public/') });
 
